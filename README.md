@@ -1,6 +1,8 @@
 # vuong_
 Vuong's Non-Nested Hypothesis Test-Statistic Use vuong (pscl) With (In) R Software
 
+https://www.youtube.com/watch?v=rCyjdnuX4ds
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
